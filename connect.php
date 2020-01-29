@@ -1,9 +1,9 @@
 <?php
 session_start();
 
-$servername = "localhost";
-$username = "root";
-$password ="";
+$servername = "ftp.gear.host";
+$username = "nickattendants\$nickattendants";
+$password ="jcZWeKBo8jq5foHa2JjYu6hg7QaetWPb5ijaqdpcinBc7p7jmeg3XpmSnik4";
 $dbname = "mydb";
 
 
